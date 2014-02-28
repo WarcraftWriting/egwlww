@@ -16,10 +16,6 @@ multiple other sources.
 1. Table of contents
 {:toc}
 
-## About the author
-
-TODO: write me
-
 ## Who should read this guide
 
 TODO: write me
@@ -163,6 +159,10 @@ TODO: Talk about junk and vendor threshold.
 ### Blogs
 
 ## Where to learn more
+
+## About the author
+
+TODO: write me
 
 ## Copyright
 
