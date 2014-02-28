@@ -10,7 +10,7 @@ end
 
 guard 'markdown', :convert_on_start => true, :dry_run => false do
   watch (/md\/((?!\.#).*)\.md$/) do |m|
-    "md/#{m[1]}.md|html/#{m[1]}.html|template/bootstrap.html.erb"
+    "md/#{m[1]}.md|html/#{m[1]}.html|template/bootstrap3.html.erb"
   end
 end
 
