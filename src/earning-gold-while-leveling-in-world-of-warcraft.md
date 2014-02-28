@@ -46,6 +46,46 @@ are in order, then continue reading the other sections of this guide.
 
 ## The basics
 
+### Questing
+
+### Professions
+
+There are two broad classifications of professions in WoW, primary and
+secondary. In terms of making gold, we're only interested in primary
+professions. While secondary professions can make gold, they're orthogonal to
+the act of leveling, and so aren't within the scope of this guide.
+
+TODO: I'm not happy with the explanation of why we're only focusing on primary professions above, is it even true?
+
+Among the primary professions, there are two more divisions, gathering and
+crafting. While leveling, having gathering professions is strongly
+recommended. The extra, nearly passive, incoming gained through gathering
+professions is not to be discounted.
+
+#### Leveling your professions
+
+Leveling gathering professions while questing is easy, simply stop and gather
+each herb, mine each deposit, or skin each skinnable corpse you encounter
+while questing.
+
+**What to do if your professions fall behind** In the event that your
+gathering profession "falls behind", it is usually worth the effort to spend
+some time playing catch-up with that profession. A quick WWW search will
+easily yield tips on where to look for herbs, ore, or skinnable animals of an
+appropriate skill level for your current skill.
+{:.alert .alert-info}
+
+**What does it mean for a profession to "fall behind"?** A profession has
+fallen behind when you can no longer practice it in zones of an appropriate
+level for your character level[^zones-by-level]. For example, Alice, a level
+50 night elf hunter, is currently questing in Burning Steppes. Unfortunately,
+Alice hasn't been keeping up with her mining profession, and so her skill
+level is 135. The most common mining deposits in Burning Steppes are mithril,
+which require a mining skill of 150, so Alice is said to have "fallen behind"
+because she effectively can't practice mining in the zones in which she
+quests.
+{:.alert .alert-info}
+
 ### What can I sell on the auction house?
 
 Just about anything. Nearly anything can be sold on the auction house. If you
@@ -53,7 +93,6 @@ don't believe me, check out &lt;cite source&gt;, &lt;cite source&gt;, or &lt;cit
 source&gt;. But this isn't to say that you _should_ try to sell everything you
 collect during your travels on the auction house. Some items just aren't worth
 the time, effort, or expense of listing on the auction house.
-
 
 ### What _should_ I sell on the auction house?
 
@@ -162,12 +201,6 @@ TODO: Talk about junk and vendor threshold.
 
 ### Bind on Equip vs Bind on Pickup vs Bind to Account
 
-### Professions
-
-#### Leveling your professions
-
-#### What to do if your professions fall behind
-
 ## Tools of the trade
 
 ### Add-ons
@@ -200,4 +233,6 @@ TODO: flesh this out
 
 [^reduceable-by-faction-reputation]: This fee can be reduced if you've
     acquired the appropriate faction reputation. See
-    [http://wowpedia.org/Riding#Skill_levels](http://wowpedia.org/Riding#Skill_levels).
+    [http://wowpedia.org/Riding#Skill_levels]().
+
+[^zones-by-level]: [http://www.wowwiki.com/Zones_by_level]()
