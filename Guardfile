@@ -2,6 +2,10 @@ guard 'shell' do
   watch (/src\/((?!\.#).*)\.md$/) do |m|
     `sed -f sed/capitalize-headings.sed "#{m[0]}" > "md/#{m[1]}.md"`
   end
+
+  watch (/template\/((?!\.#).*)\.html\.erb$/) do |m|
+    `touch src/*.md`
+  end
 end
 
 guard 'markdown', :convert_on_start => true, :dry_run => false do
