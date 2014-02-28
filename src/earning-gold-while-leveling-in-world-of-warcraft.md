@@ -33,8 +33,8 @@ TODO: What one should be able to achieve, by following this guide.
 ### What can I sell on the auction house?
 
 Just about anything. Nearly anything can be sold on the auction house. If you
-don't believe me, check out <cite source>, <cite source>, or <cite
-source>. But this isn't to say that you _should_ try to sell everything you
+don't believe me, check out &lt;cite source&gt;, &lt;cite source&gt;, or &lt;cite
+source&gt;. But this isn't to say that you _should_ try to sell everything you
 collect during your travels on the auction house. Some items just aren't worth
 the time, effort, or expense of listing on the auction house.
 
