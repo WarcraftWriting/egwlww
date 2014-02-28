@@ -16,9 +16,14 @@ multiple other sources.
 1. Table of contents
 {:toc}
 
-## Who should read this guide
+## Why should i care about making gold while leveling?
 
-TODO: write me
+In short, [artisan riding](http://www.wowhead.com/spell=34091) and
+[master riding](http://www.wowhead.com/spell=90265). Each of these skills
+require 5,000 gold to train[^reduceable-by-faction-reputation]. While
+technically luxury items, remember the old goblin adage, "Time is money
+friend!". Being able to fly faster means more quests in less time, more gold
+in less time, and more fun in less time.
 
 ## Goals
 
@@ -175,3 +180,9 @@ TODO: make me some sort of CC license.
 This document was written in Emacs using the Markdown format.
 
 TODO: flesh this out
+
+## Footnotes
+
+[^reduceable-by-faction-reputation]: This fee can be reduced if you've
+    acquired the appropriate faction reputation. See
+    [http://wowpedia.org/Riding#Skill_levels](http://wowpedia.org/Riding#Skill_levels).
