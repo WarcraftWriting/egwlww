@@ -48,8 +48,6 @@ are in order, then continue reading the other sections of this guide.
 
 ### Questing
 
-### Professions
-
 {::options parse_block_html="true" /}
 
 <div class="row">
@@ -77,6 +75,8 @@ are in order, then continue reading the other sections of this guide.
 </div>
 
 <div class="col-md-8">
+### Professions
+
 There are two broad classifications of professions in WoW, primary and
 secondary. In terms of making gold, we're only interested in primary
 professions. While secondary professions can make gold, they're orthogonal to
@@ -84,10 +84,22 @@ the act of leveling, and so aren't within the scope of this guide.
 
 TODO: I'm not happy with the explanation of why we're only focusing on primary professions above, is it even true?
 
-Among the primary professions, there are two more divisions, gathering and
-crafting. While leveling, having gathering professions is strongly
+Among the primary professions, there are two more classification, gathering
+and crafting. While leveling, having gathering professions is strongly
 recommended. The extra, nearly passive, incoming gained through gathering
 professions is not to be discounted.
+
+Which primary gathering professions are right for your character? They'll all
+work well. I recommend skinning, as it's probably the easiest of the three,
+and herbalism, since it's been my experience that my characters have to go
+less out of their way to gather herbs as compared to mining ore deposits.
+
+**Playing a Tauren or Worgen character?** While any gathering professions will
+work, Worgen characters
+[receive a bonus to skinning](http://www.wowhead.com/spell=68978), and they
+skin faster. Tauren characters receive
+[equivalent benefits](http://www.wowhead.com/spell=20552) to herbalism.
+{:.alert .alert-info}
 
 #### Leveling your professions
 
