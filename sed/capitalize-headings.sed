@@ -1,5 +1,5 @@
 # titleize each word
-/^#/s/\<[[:alpha:]][[:alpha:]]*\>/\u&/g
+/^#/s/\<\(_\?\)\([[:alpha:]]*\)\(_\?\)\>/\1\u\2\3/g
 
 # lowercase "to" (as an infinitive)
 /^#/s/\<to\>/\l&/gi
