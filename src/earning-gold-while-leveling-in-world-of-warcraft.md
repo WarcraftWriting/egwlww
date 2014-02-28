@@ -269,6 +269,7 @@ TODO: flesh this out
 
 [^reduceable-by-faction-reputation]: This fee can be reduced if you've
     acquired the appropriate faction reputation. See
-    [http://wowpedia.org/Riding#Skill_levels]().
+    [http://wowpedia.org/Riding#Skill_levels](http://wowpedia.org/Riding#Skill_levels).
 
-[^zones-by-level]: [http://www.wowwiki.com/Zones_by_level]()
+[^skinning-training]: [http://www.wowwiki.com/Skinning#Training](http://www.wowwiki.com/Skinning#Training)
+[^zones-by-level]: [http://www.wowwiki.com/Zones_by_level](http://www.wowwiki.com/Zones_by_level)
