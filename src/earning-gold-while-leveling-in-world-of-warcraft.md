@@ -27,7 +27,22 @@ in less time, and more fun in less time.
 
 ## Goals
 
-TODO: What one should be able to achieve, by following this guide.
+With the guidance of this guide, you should be able to earn enough gold to
+purchase the basics for your character, namely:
+
+* Adequate bags for storing needed gear and loot.
+* All riding skills, as they become available by level.
+
+Using the tips and techniques of this guide will not make you rich, but it
+should allow you to level your character with enough gold to pay for the
+things they need, when they need them. Your character will probably have
+enough gold left over for a few fun items here and there too.
+
+**My character is already level _X_, is it too late to start?** While you
+might not be able to reach all of the goals cited above, it's never too late
+to start earning gold. Start by making sure your [professions](#professions)
+are in order, then continue reading the other sections of this guide.
+{:.alert .alert-info}
 
 ## The basics
 
