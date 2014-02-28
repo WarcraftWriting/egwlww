@@ -1,4 +1,4 @@
-# Making gold in world of warcraft while leveling
+# Earning gold in world of warcraft while leveling
 
 This guide is for people looking to make gold while leveling a character. It
 provides hints and tips for making money, _without_ having a fully-leveled
