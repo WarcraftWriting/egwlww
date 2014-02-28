@@ -97,11 +97,11 @@ here's a table summarizing each of these terms:
       <td>Rare</td>
       <td>
 
-        These items are—as their name implies—rare. They typically require
-        extra effort to obtain. Examples include bosses in 5-man dungeons, or
-        the ends of long quest chains. As a result, they tend to be better, in
-        that they provide bigger stat bonuses than white or green gear of
-        equivalent gear level.
+        These items are&mdash;as their name implies&mdash;rare. They typically
+        require extra effort to obtain. Examples include bosses in 5-man
+        dungeons, or the ends of long quest chains. As a result, they tend to
+        be better, in that they provide bigger stat bonuses than white or
+        green gear of equivalent gear level.
 
         TODO: is gear level the most accurate term?
         TODO: define 5-man dungeon, provide example?
