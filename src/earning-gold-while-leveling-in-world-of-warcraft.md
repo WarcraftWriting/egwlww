@@ -50,6 +50,33 @@ are in order, then continue reading the other sections of this guide.
 
 ### Professions
 
+{::options parse_block_html="true" /}
+
+<div class="row">
+<div class="col-md-4 pull-right">
+| Name           | Classification | Sub-classification |
+| :-             | :-             | :-                 |
+| Herbalism      | Primary        | Gathering          |
+| Mining         | Primary        | Gathering          |
+| Skinning       | Primary        | Gathering          |
+| ----           | ----           | ----               |
+| Alchemy        | Primary        | Crafting           |
+| Blacksmithing  | Primary        | Crafting           |
+| Enchanting     | Primary        | Crafting           |
+| Engineering    | Primary        | Crafting           |
+| Inscription    | Primary        | Crafting           |
+| Jewelcrafting  | Primary        | Crafting           |
+| Leatherworking | Primary        | Crafting           |
+| Tailoring      | Primary        | Crafting           |
+| ----           | ----           | ----               |
+| Archeology     | Secondary      | --                 |
+| Cooking        | Secondary      | --                 |
+| First aid      | Secondary      | --                 |
+| Fishing        | Secondary      | --                 |
+{:.table .table-condensed}
+</div>
+
+<div class="col-md-8">
 There are two broad classifications of professions in WoW, primary and
 secondary. In terms of making gold, we're only interested in primary
 professions. While secondary professions can make gold, they're orthogonal to
@@ -66,14 +93,10 @@ professions is not to be discounted.
 
 Leveling gathering professions while questing is easy, simply stop and gather
 each herb, mine each deposit, or skin each skinnable corpse you encounter
-while questing.
-
-**What to do if your professions fall behind** In the event that your
-gathering profession "falls behind", it is usually worth the effort to spend
-some time playing catch-up with that profession. A quick WWW search will
-easily yield tips on where to look for herbs, ore, or skinnable animals of an
-appropriate skill level for your current skill.
-{:.alert .alert-info}
+while questing. As your character's skills progress, they can visit a skill
+trainer to train your skills[^skinning-training]. Doing so allows your
+character to practice their professions on higher-level herbs, ore deposits,
+skinnable corpses, etc.
 
 **What does it mean for a profession to "fall behind"?** A profession has
 fallen behind when you can no longer practice it in zones of an appropriate
@@ -85,6 +108,17 @@ which require a mining skill of 150, so Alice is said to have "fallen behind"
 because she effectively can't practice mining in the zones in which she
 quests.
 {:.alert .alert-info}
+
+**What to do if your professions fall behind** In the event that your
+gathering profession "falls behind", it is usually worth the effort to spend
+some time playing catch-up with that profession. A quick WWW search will
+easily yield tips on where to look for herbs, ore, or skinnable animals of an
+appropriate skill level for your current skill.
+{:.alert .alert-info}
+
+</div>
+</div>
+{::options parse_block_html="false" /}
 
 ### What can I sell on the auction house?
 
