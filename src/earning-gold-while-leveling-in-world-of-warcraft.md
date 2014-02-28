@@ -135,7 +135,8 @@ read much at all about equipment in WoW, you've run across the terms "trash",
 "white", "green", and "blue". In case you haven't figured it out already,
 here's a table summarizing each of these terms:
 
-<table>
+<div class="table-responsive">
+<table class="table table-bordered table-striped">
   <summary>Equipment levels in World of Warcraft</summary>
   <thead>
     <tr>
@@ -228,6 +229,7 @@ here's a table summarizing each of these terms:
     </tr>
   </tbody>
 </table>
+</div>
 
 TODO: Talk about gear levels.
 
