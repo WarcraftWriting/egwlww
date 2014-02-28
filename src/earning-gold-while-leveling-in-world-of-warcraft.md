@@ -1,13 +1,13 @@
 # Earning gold in world of warcraft while leveling
 
-This guide is for people looking to make gold while leveling a character. It
-provides hints and tips for making money, _without_ having a fully-leveled
-profession. It assumes the reader knows little to nothing about the workings
-of the World of Warcraft auction house (AH). Some of the knowledge contained
-within is simply common sense, and much of it can be found in other
+This guide is for World of Warcraft (WoW) players looking to make gold while
+leveling a character. It provides hints and tips for making money---without
+having any fully-leveled professions. It assumes the reader knows little to
+nothing about WoW, or the WoW auction house. Some of the knowledge contained
+within is simply common sense, and most of it can be found in other
 sources. It is hoped that by collecting this information in one place it will
-provide the reader with convenience and perhaps insight not gained from
-gleaning multiple other sources.
+provide the reader with convenience and insight not gained from gleaning
+multiple other sources.
 
 ## About the author
 
