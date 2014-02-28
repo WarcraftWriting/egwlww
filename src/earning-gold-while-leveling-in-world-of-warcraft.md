@@ -1,4 +1,5 @@
 # Earning gold in world of warcraft while leveling
+{:.no_toc}
 
 This guide is for World of Warcraft (WoW) players looking to make gold while
 leveling a character. It provides hints and tips for making money---without
@@ -8,6 +9,12 @@ within is simply common sense, and most of it can be found in other
 sources. It is hoped that by collecting this information in one place it will
 provide the reader with convenience and insight not gained from gleaning
 multiple other sources.
+
+## Table of contents
+{:.no_toc}
+
+1. Table of contents
+{:toc}
 
 ## About the author
 
