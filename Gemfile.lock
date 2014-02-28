@@ -26,6 +26,8 @@ GEM
     guard-markdown (0.2.0)
       guard (>= 0.2.2)
       kramdown (~> 0.13.3)
+    guard-shell (0.6.1)
+      guard (>= 1.1.0)
     http_parser.rb (0.5.3)
     kramdown (0.13.8)
     listen (2.6.0)
@@ -58,5 +60,6 @@ PLATFORMS
 DEPENDENCIES
   guard-livereload
   guard-markdown
+  guard-shell
   rack-livereload
   rb-readline
