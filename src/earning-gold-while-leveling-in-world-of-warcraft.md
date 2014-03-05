@@ -27,19 +27,19 @@ in less time, and more fun in less time.
 
 ## Goals
 
-With the guidance of this guide, you should be able to earn enough gold to
-purchase the basics for your character, namely:
+By following this guide, your character should be able to earn enough gold to
+purchase the most important items and skill training, namely:
 
 * Adequate bags for storing needed gear and loot.
 * All riding skills, as they become available by level.
 
-Using the tips and techniques of this guide will not make you rich, but it
-should allow you to level your character with enough gold to pay for the
-things they need, when they need them. Your character will probably have
+Using the tips and techniques of this guide will not make your character rich,
+but it should allow you to level your character with enough gold to pay for
+the things they need, when they need them. Your character will probably have
 enough gold left over for a few fun items here and there too.
 
 **My character is already level _X_, is it too late to start?** While you
-might not be able to reach all of the goals cited above, it's never too late
+might not be able to reach all of the goals listed above, it's never too late
 to start earning gold. Start by making sure your [professions](#professions)
 are in order, then continue reading the other sections of this guide.
 {:.alert .alert-info}
@@ -47,6 +47,8 @@ are in order, then continue reading the other sections of this guide.
 ## The basics
 
 ### Questing
+
+TODO: write me
 
 {::options parse_block_html="true" /}
 
@@ -142,7 +144,7 @@ the time, effort, or expense of listing on the auction house.
 
 ### What _should_ I sell on the auction house?
 
-To answer this question, we should first establish some vocabulary. If you've
+To answer this question, we must first establish some vocabulary. If you've
 read much at all about equipment in WoW, you've run across the terms "trash",
 "white", "green", and "blue". In case you haven't figured it out already,
 here's a table summarizing each of these terms:
