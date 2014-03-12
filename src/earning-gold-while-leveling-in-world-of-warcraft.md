@@ -25,6 +25,13 @@ technically luxury items, remember the old goblin adage, "Time is money
 friend!". Being able to fly faster means more quests in less time, more gold
 in less time, and more fun in less time.
 
+There are faster, and arguably easier, ways to earn gold in WoW, but all of
+them require time away from the end-goal of the leveling game. If you enjoy
+fishing at the Darkmoon Faire, or flipping items on the auction house, then by
+all means do so. This guide's aim is to empower your character to reach modest
+goals (which will be discussed in in the next section), without going any
+further out of their way than is necessary.
+
 ## Goals
 
 By following this guide, your character should be able to earn enough gold to
@@ -32,6 +39,8 @@ purchase the most important items and skill training, namely:
 
 * Adequate bags for storing needed gear and loot.
 * All riding skills, as they become available by level.
+* Dual specialization, as it becomes available.
+* (should we include Glyphs?. They vary in price substantially)
 
 Using the tips and techniques of this guide will not make your character rich,
 but it should allow you to level your character with enough gold to pay for
@@ -39,9 +48,10 @@ the things they need, when they need them. Your character will probably have
 enough gold left over for a few fun items here and there too.
 
 **My character is already level _X_, is it too late to start?** While you
-might not be able to reach all of the goals listed above, it's never too late
-to start earning gold. Start by making sure your [professions](#professions)
-are in order, then continue reading the other sections of this guide.
+might not be able to achieve all of the goals listed above, it's never too
+late to start earning gold. Start by making sure your
+[professions](#professions) are in order, then continue reading the other
+sections of this guide.
 {:.alert .alert-info}
 
 ## The basics
@@ -50,33 +60,6 @@ are in order, then continue reading the other sections of this guide.
 
 TODO: write me
 
-{::options parse_block_html="true" /}
-
-<div class="row">
-<div class="col-md-4 pull-right">
-| Name           | Classification | Sub-classification |
-| :-             | :-             | :-                 |
-| Herbalism      | Primary        | Gathering          |
-| Mining         | Primary        | Gathering          |
-| Skinning       | Primary        | Gathering          |
-| ----           | ----           | ----               |
-| Alchemy        | Primary        | Crafting           |
-| Blacksmithing  | Primary        | Crafting           |
-| Enchanting     | Primary        | Crafting           |
-| Engineering    | Primary        | Crafting           |
-| Inscription    | Primary        | Crafting           |
-| Jewelcrafting  | Primary        | Crafting           |
-| Leatherworking | Primary        | Crafting           |
-| Tailoring      | Primary        | Crafting           |
-| ----           | ----           | ----               |
-| Archeology     | Secondary      | --                 |
-| Cooking        | Secondary      | --                 |
-| First aid      | Secondary      | --                 |
-| Fishing        | Secondary      | --                 |
-{:.table .table-condensed}
-</div>
-
-<div class="col-md-8">
 ### Professions
 
 There are two broad classifications of professions in WoW, primary and
@@ -91,16 +74,21 @@ and crafting. While leveling, having gathering professions is strongly
 recommended. The extra, nearly passive, incoming gained through gathering
 professions is not to be discounted.
 
+For more detailed descriptions of each profession, check out the
+[professions table](http://www.wowwiki.com/Profession#Professions) at WoWWiki.
+{:.alert .alert-info}
+
 Which primary gathering professions are right for your character? They'll all
 work well. I recommend skinning, as it's probably the easiest of the three,
 and herbalism, since it's been my experience that my characters have to go
 less out of their way to gather herbs as compared to mining ore deposits.
 
 **Playing a Tauren or Worgen character?** While any gathering professions will
-work, Worgen characters
-[receive a bonus to skinning](http://www.wowhead.com/spell=68978), and they
-skin faster. Tauren characters receive
-[equivalent benefits](http://www.wowhead.com/spell=20552) to herbalism.
+work, Worgen characters, with their
+[Flayer](http://www.wowhead.com/spell=68978) racial ability, gain bonuses to
+skinning skill and speed. Tauren characters'
+[Cultivation](http://www.wowhead.com/spell=20552) provides similar benefits to
+herbalism.
 {:.alert .alert-info}
 
 #### Leveling your professions
@@ -125,14 +113,10 @@ quests.
 
 **What to do if your professions fall behind** In the event that your
 gathering profession "falls behind", it is usually worth the effort to spend
-some time playing catch-up with that profession. A quick WWW search will
+some time playing catch-up with that profession. A quick world-wide web search will
 easily yield tips on where to look for herbs, ore, or skinnable animals of an
 appropriate skill level for your current skill.
 {:.alert .alert-info}
-
-</div>
-</div>
-{::options parse_block_html="false" /}
 
 ### What can I sell on the auction house?
 
@@ -151,7 +135,7 @@ here's a table summarizing each of these terms:
 
 <div class="table-responsive">
 <table class="table table-bordered table-striped">
-  <summary>Equipment levels in World of Warcraft</summary>
+  <summary>Item Quality Levels in World of Warcraft</summary>
   <thead>
     <tr>
       <th>Color</th>
@@ -219,7 +203,6 @@ here's a table summarizing each of these terms:
       <td>
 
         TODO: write me
-        TODO: write about how purples didn't exist before TBC? (Is that true? Ask Chris?)
 
       </td>
     </tr>
